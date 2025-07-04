@@ -2,8 +2,7 @@
 # Michael Young's GitHub
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=ArnoldW-dev&show_icons=true&count_private=true" alt="stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-ghub&layout=compact"        alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-ghub&layout=normal&langs_count=20&card_width=600"        alt="top languages" />
 </p>
 
 <!--
