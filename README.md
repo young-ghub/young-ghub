@@ -1,8 +1,7 @@
-## Hi there 👋
-# Michael Young's GitHub
+# 👋 Michael Young's GitHub 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-ghub&layout=normal&langs_count=20&card_width=600"        alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-ghub&layout=normal&langs_count=8&card_width=600"        alt="top languages" />
 </p>
 
 <!--
